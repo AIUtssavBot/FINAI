@@ -3,7 +3,7 @@
 A comprehensive financial analysis platform that combines real-time market data, AI-powered insights, and interactive stock trading capabilities.
 
 ## Developer
-- **Name:** Utsav Mehta
+- **Name:** Utssav Mehta
 - **Institution:** AIML, DJ Sanghvi College
 
 ## Features
