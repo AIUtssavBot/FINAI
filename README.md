@@ -77,6 +77,3 @@ npm start
 
 ## Contributing
 This is a student project developed by Utsav Mehta. For any queries or suggestions, please reach out to the developer.
-
-## License
-MIT License 
